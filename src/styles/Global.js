@@ -10,6 +10,7 @@ export default createGlobalStyle`
 body {
     font-family: 'Roboto', sans-serif;
     color: white;    
-    background-color: black;    
+    background-color: black;  
+    overflow: hidden;  
 }
 `;

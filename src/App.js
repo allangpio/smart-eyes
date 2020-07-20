@@ -8,7 +8,7 @@ import GlobalStyle from './styles/Global';
 import {Header} from './styles/Header';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
-// import BgVideo from './components/BgVideo/BgVideo';
+import BgVideo from './components/BgVideo/BgVideo';
 
 const initialState = {
   input: '',
@@ -124,7 +124,7 @@ class App extends Component {
     return (
       <div className="App">
         <GlobalStyle />
-        {/* <BgVideo /> */}
+        <BgVideo />
         <Header>
           <Logo />
           <Navigation
