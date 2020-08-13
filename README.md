@@ -6,7 +6,7 @@
  <a href="#about">About</a> •
  <a href="#features">Features</a> • 
  <a href="#tech-stack">Tech Stack</a> •  
- <a href="#author">Author</a> • 
+ <a href="#author">Author</a>
 </p>
 
 
@@ -39,9 +39,9 @@ Take a look at the live demo: <a href="https://smart-eye-face-recognition.heroku
 ## Tech Stack
 
 <ul>
-  <li>ReactJS</li>
-  <li>Styled Components</li>
-  <li>Clarifai face detection API</li>
+  <li>[ReactJS](https://reactjs.org/)</li>
+  <li>[Styled Components](https://styled-components.com/)</li>
+  <li>[Clarifai face detection API](https://docs.clarifai.com/)</li>
 </ul>
 
 
