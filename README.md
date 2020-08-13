@@ -45,7 +45,7 @@ Take a look at the live demo: <a href="https://smart-eye-face-recognition.heroku
 </ul>
 
 
-## Autor
+## Author
 ---
 
 <img style="border-radius: 100px;" src="https://avatars1.githubusercontent.com/u/63213995?s=460&u=06c696b4fb4c2795ba97e524c580308cb7d591be&v=4" width="100px;" alt="Allan Gaia Pio"/>
