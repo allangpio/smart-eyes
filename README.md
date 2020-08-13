@@ -1,7 +1,23 @@
-# 👁️ Smart Eyes - React Project
+<h1 align="center">
+   👁️ Smart Eyes - React Project
+</h1>
 
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#features">Features</a> • 
+ <a href="#tech-stack">Tech Stack</a> •  
+ <a href="#author">Author</a> • 
+</p>
+
+
+## About
 This project was part of The Complete Web Developer in 2020 course.
-This repo contains the front-end part of the project, developed with ReactJS and using Styled Components. It detect faces from photos loaded by the user consuming the Clarifai Face Detection API.
+This repo contains the front-end of the project, developed with ReactJS and using Styled Components. It detect faces from photos loaded by the user consuming the Clarifai Face Detection API.
+
+Take a look at the live demo: <a href="https://smart-eye-face-recognition.herokuapp.com/" target="_blank">Smart Eye</a> <br/>
+<a href="https://github.com/allangpio/smart-eye-api" target="_blank">Back-End Repo</a>
+
+
 
 ## Live Demo
 [Smart Eye](https://smart-eye-face-recognition.herokuapp.com/) <br/>
